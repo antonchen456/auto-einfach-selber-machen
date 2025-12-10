@@ -2,32 +2,6 @@ baseURL = 'https://antonchen456.github.io/auto-einfach-selber-machen/'
 languageCode = 'de-de'
 title = 'Auto einfach selber machen'
 theme = 'PaperMod'
-[menu]
-
-  [[menu.main]]
-    name = "Gebrauchtwagenkauf"
-    url = "/gebrauchtwagenkauf/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Wäsche"
-    url = "/waesche/"
-    weight = 2
-
-  [[menu.main]]
-    name = "Jährlicher Service"
-    url = "/service/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Im Auge behalten"
-    url = "/kontrolle/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Spartricks"
-    url = "/spartricks/"
-    weight = 5
 
 [menu]
 
@@ -55,4 +29,3 @@ theme = 'PaperMod'
     name = "Spartricks"
     url = "/spartricks/"
     weight = 5
-
