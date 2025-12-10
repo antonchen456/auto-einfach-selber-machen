@@ -1,0 +1,4 @@
+baseURL = 'https://antonchen456.github.io/auto-einfach-selber-machen/'
+languageCode = 'de-de'
+title = 'Auto einfach selber machen'
+theme = 'PaperMod'
