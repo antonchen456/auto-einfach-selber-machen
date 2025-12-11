@@ -1,6 +1,6 @@
 +++
 date = '2025-12-11T18:31:00+01:00'
-draft = true
+draft = false
 title = 'Mein Erster Artikel'
 +++
 Hallo Welt! 
