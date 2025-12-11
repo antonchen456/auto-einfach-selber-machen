@@ -1,9 +1,8 @@
 +++
-date = '2025-12-11T14:11:58+01:00'
+date = '2025-12-11T18:31:00+01:00'
 draft = true
-title = 'Hallo Freunde!'
+title = 'Mein Erster Artikel'
 +++
-
 Hallo Welt! 
 
 Ich bin Antonchen456.
